@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#5C6BC0</color>
+
+    <!-- 本地/内置换肤颜色（夜间） -->
+    <color name="nightTextColor">#3F51B5</color>
+    <color name="dayTextColor1">#000000</color>
+</resources>

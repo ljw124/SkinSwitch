@@ -1,0 +1,2 @@
+include ':app', ':skin_library'
+rootProject.name='SkinSwitch'
